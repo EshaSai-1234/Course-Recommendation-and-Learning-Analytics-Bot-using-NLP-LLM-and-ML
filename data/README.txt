@@ -1,0 +1,1 @@
+Place your Coursera.csv file in this folder.

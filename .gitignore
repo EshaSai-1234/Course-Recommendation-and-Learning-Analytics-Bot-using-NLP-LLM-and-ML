@@ -1,0 +1,28 @@
+# Virtual Environments
+.venv/
+.venv-1/
+venv/
+env/
+ENV/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Files (optional - keeping Coursera.csv as it is part of the project)
+# data/Coursera.csv
+output_full_recommendations.txt
+output_recommendations.txt
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Temporary / Junk
+tp/

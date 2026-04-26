@@ -1,0 +1,11 @@
+nltk
+pandas
+numpy
+matplotlib
+scikit-learn
+speechrecognition
+pyttsx3
+pypdf
+transformers
+pyaudio
+torch
